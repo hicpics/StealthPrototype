@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "1.2.1",
+	"FriendlyName": "GitCentral",
+	"Description": "GitCentral - Centralized source control using git and git-lfs",
+	"Category": "Source Control",
+	"CreatedBy": "Samuel Kahn",
+	"CreatedByURL": "kahncode.com",
+	"DocsURL": "kahncode.com/gitcentral",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0a04519938924b11b2423584c1a02d51",
+	"SupportURL": "support@kahncode.com",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "GitCentral",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
